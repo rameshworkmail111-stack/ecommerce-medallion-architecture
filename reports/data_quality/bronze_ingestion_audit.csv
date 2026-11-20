@@ -1,0 +1,2 @@
+Source_File,Source_Records,Bronze_Records,Source_Columns,Total_Values_Compared,Mismatched_Values,Unique_Ingestion_IDs,Record_Count_Match,Exact_Data_Match,Ingestion_Status
+ecommerce_customer.csv,3055,3055,32,97760,0,3055,True,True,SUCCESS
