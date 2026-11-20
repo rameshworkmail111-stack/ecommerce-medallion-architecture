@@ -1,0 +1,10 @@
+Order_ID,Quantity,Discount_Pct,Gross_Amount,Discount_Amount,Net_Sales,Estimated_Cost,Profit,Return_Status,Order_Status,Exception_Reason
+ORD101217,0,9.04,0.0,0.0,0.0,0.0,0.0,No,Cancelled,Zero Quantity
+ORD102676,4,-10.0,1970.8,-197.08,2167.88,1681.25,486.63,No,Delivered,Negative Discount
+ORD100611,5,120.0,7535.8,9042.96,-1507.16,-854.28,-652.88,No,Delivered,Discount Above 100%; Negative Net Sales; Negative Estimated Cost; Negative Profit
+ORD100633,2,120.0,1711.34,2053.61,-342.27,-254.04,-88.23,No,Delivered,Discount Above 100%; Negative Net Sales; Negative Estimated Cost; Negative Profit
+ORD101132,-2,4.63,-1742.96,-80.7,-1662.26,-1055.66,-606.6,No,Pending,Negative Quantity; Negative Gross Amount; Negative Net Sales; Negative Estimated Cost; Negative Profit
+ORD102321,-2,21.58,-2534.3,-546.9,-1987.4,-1738.61,-248.79,No,Delivered,Negative Quantity; Negative Gross Amount; Negative Net Sales; Negative Estimated Cost; Negative Profit
+ORD102085,-2,10.24,-7620.86,-780.38,-6840.48,-5446.48,-1394.0,Yes,Delivered,Negative Quantity; Negative Gross Amount; Negative Net Sales; Negative Estimated Cost; Negative Profit
+ORD102047,2,-10.0,262.4,-26.24,288.64,242.52,46.12,No,Delivered,Negative Discount
+ORD101892,5,120.0,2177.25,2612.7,-435.45,-260.43,-175.02,No,Delivered,Discount Above 100%; Negative Net Sales; Negative Estimated Cost; Negative Profit
